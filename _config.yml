@@ -191,8 +191,8 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
-    # permalink: /:collection/:title/
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: false
     # permalink: /:collection/:title/
